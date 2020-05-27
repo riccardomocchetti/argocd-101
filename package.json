@@ -1,0 +1,22 @@
+{
+  "name": "argocd-101",
+  "version": "0.2.0",
+  "description": "Trying out argocd",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riccardomocchetti/argocd-101.git"
+  },
+  "author": "Riccardo Mocchetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riccardomocchetti/argocd-101/issues"
+  },
+  "homepage": "https://github.com/riccardomocchetti/argocd-101#readme",
+  "dependencies": {
+    "mocha": "7.2.0"
+  }
+}
