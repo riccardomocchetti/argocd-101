@@ -1,0 +1,12 @@
+replicaCount: 1
+
+image:
+  repository: moki/app
+  pullPolicy: Never
+
+nameOverride: ""
+fullnameOverride: ""
+
+service:
+  type: ClusterIP
+  port: 3000
