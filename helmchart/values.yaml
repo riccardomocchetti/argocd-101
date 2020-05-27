@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: moki/app
+  repository: argocd-101/app
   pullPolicy: Never
 
 nameOverride: ""
